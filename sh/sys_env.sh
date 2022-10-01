@@ -1,0 +1,3 @@
+echo 'abcde'
+
+echo $PATH
